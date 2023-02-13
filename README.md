@@ -6,8 +6,6 @@ Hope you find useful my public repos 💩. Feel free to reach out! ✉️
 - 🔥🚀 I’m currently learning ...
 - 👯  I’m looking to collaborate on new side projects.
 - 💬 Ask me about web development (CodeIgniter, PHP, etc).
-- 📫 How to reach me: my emails
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm also a bus driver 🚌 
 
 
