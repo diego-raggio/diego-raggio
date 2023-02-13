@@ -11,6 +11,6 @@ Hope you find useful my public repos 💩. Feel free to reach out! ✉️
 - ⚡ Fun fact: I'm also a bus driver 🚌 
 
 
-Companies I've worked for 💪
+Companies I've worked for 💪📽️
 
 HBOO NAX, TMT, POX, Tuniversal Studios.
