@@ -1,16 +1,15 @@
-### Hi there 👋
+###   👋 Welcome to my profile 🔥🚀
 
-<!--
-**diego-raggio/diego-raggio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Lois, I love php development web 💻 and share my great knowledge 🧠💪 with the world 🌍. Hope you find useful my public repos 💩. Feel free to reach out! ✉️
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯  I’m looking to collaborate on new side projects.
+- 💬 Ask me about web development (CodeIgniter, PHP, etc).
+- 📫 How to reach me: my emails
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm also a bus driver 🚌 
+
+
+Companies I've worked for 💪
+
+HBOO NAX, TMT, POX, Tuniversal Studios.
