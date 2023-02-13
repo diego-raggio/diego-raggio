@@ -1,6 +1,7 @@
 ###   👋 Welcome to my profile 
 
-Hi! I'm Lois, I love php development web 💻 and share my great knowledge 🧠💪 with the world 🌍. Hope you find useful my public repos 💩. Feel free to reach out! ✉️
+Hi! I'm Lois, I love php development web 💻 and share my great knowledge 🧠💪 with the world 🌍. 
+Hope you find useful my public repos 💩. Feel free to reach out! ✉️
 
 - 🔥🚀 I’m currently learning ...
 - 👯  I’m looking to collaborate on new side projects.
