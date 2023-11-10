@@ -13,4 +13,4 @@ Hope you find useful my public repos 💩.
 
 Companies I've worked for 📽️
 
-HVO NAX, TMT, POX, Vniversal Ztudios.
+HVO NAX, TMT, St6r, Vniversal Ztudios.
